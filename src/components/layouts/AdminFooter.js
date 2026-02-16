@@ -12,7 +12,7 @@ export default function AdminFooter() {
             {new Date().getFullYear()}, made with <i className="la la-heart heart text-danger"></i>{" "}
             by{" "}
             <a href="https://bhavyajustchill.github.io" target={"_blank"}>
-              BhavyaJustChill
+              GirishDambre
             </a>
           </div>
         </div>
